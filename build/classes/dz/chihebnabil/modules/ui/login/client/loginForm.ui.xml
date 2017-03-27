@@ -19,6 +19,11 @@
       <b:Input type="PASSWORD" placeholder="Enter password"/>
     </b:FormGroup>
     </b:FieldSet>
+    
+    
+    <b:FormGroup>
+      <b:Button>Send</b:Button>
+    </b:FormGroup>
     </b:Form>
 	
 	</b:Container>
