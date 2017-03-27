@@ -12,7 +12,7 @@
     <b:Legend>Login form</b:Legend>
      <b:FormGroup>
       <b:FormLabel for="formEmail">Email</b:FormLabel>
-      <b:FormControlStatic b:id="formEmail">email@example.example</b:FormControlStatic>
+       <b:Input type="EMAIL" placeholder="Enter password"/>
     </b:FormGroup>
      <b:FormGroup>
       <b:FormLabel for="formPassword">Password</b:FormLabel>
